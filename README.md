@@ -9,6 +9,7 @@
 ## 📖 Mục lục
 
 - [Giới thiệu](#-giới-thiệu)
+- [Tài liệu phân tích nghiệp vụ](#-tài-liệu-phân-tích-nghiệp-vụ-ba-documents)
 - [Tính năng](#-tính-năng)
 - [Công nghệ sử dụng](#️-công-nghệ-sử-dụng)
 - [Kiến trúc hệ thống](#-kiến-trúc-hệ-thống)
@@ -26,6 +27,18 @@
 - 📈 **Phân tích dữ liệu môi trường** — Thu thập và xử lý dữ liệu thời tiết, khí hậu, nông nghiệp từ các nguồn dữ liệu mở.
 - 🎯 **Đánh giá tác động** — Phân tích ảnh hưởng của biến đổi khí hậu đến sản xuất nông nghiệp và xác định các rủi ro thiên tai tiềm ẩn.
 - 🗺️ **Tương tác cộng đồng** — Xây dựng dịch vụ cho phép người dùng báo cáo trực tiếp các sự cố (ngập lụt, sạt lở,...) để đóng góp vào bản đồ rủi ro cộng đồng.
+
+---
+
+## 📚 Tài liệu phân tích nghiệp vụ (BA Documents)
+
+| Tài liệu | Nội dung |
+| :--- | :--- |
+| [SRS](./docs/01-SRS.md) | Mục tiêu nghiệp vụ & KPI, stakeholder, yêu cầu chức năng / phi chức năng, quy tắc nghiệp vụ, gap analysis |
+| [User Stories & MoSCoW](./docs/02-user-stories.md) | User story, tiêu chí chấp nhận, độ ưu tiên, ma trận truy vết |
+| [Use Case](./docs/03-use-cases.md) | Sơ đồ & đặc tả use case |
+| [Quy trình nghiệp vụ](./docs/04-business-process.md) | Quy trình báo cáo sự cố as-is / to-be, vòng đời trạng thái, quy trình nạp dữ liệu |
+| [ERD & Nguồn dữ liệu](./docs/05-data-model.md) | Mô hình dữ liệu, từ điển dữ liệu, 26 bộ dữ liệu mở |
 
 ---
 
